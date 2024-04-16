@@ -1,5 +1,8 @@
 # pizzaria
 
+## Integrantes:
+João Pedro De Oliveira Moraes e Lucas Wellinson Mendes Martins.
+
 ## Descrição:
 Este é um projeto de uma pizzaria online desenvolvido utilizando HTML, PHP e CSS. Ele consiste em várias páginas, incluindo uma página inicial, páginas de login e cadastro, página de produtos e página de compras.
 
