@@ -5,13 +5,13 @@ Este é um projeto de uma pizzaria online desenvolvido utilizando HTML, PHP e CS
 
 ## Como acessar o projeto:
 1. Clone este repositório para o seu ambiente local.
-2. Certifique-se de ter um servidor web configurado para executar arquivos PHP, como Apache ou Nginx.
+2. Certifique-se de ter um servidor web configurado para executar arquivos PHP, como Apache.
 3. Mova os arquivos para o diretório raiz do seu servidor web.
 4. Abra um navegador da web e navegue até o endereço do seu servidor local.
 
 ## Funcionalidades:
 
-- Página Inicial: Apresenta informações sobre a pizzaria e permite aos usuários navegar para outras seções do site.
+- *Página Inicial*: Apresenta informações sobre a pizzaria e permite aos usuários navegar para outras seções do site.
 
 - *Páginas de Login e Cadastro*: Permite que os usuários façam login em uma conta existente ou criem uma nova conta.
 
